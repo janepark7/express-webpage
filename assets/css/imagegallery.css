@@ -1,0 +1,43 @@
+body {
+  background: silver;
+}
+
+.gallery-image {
+  float: left;
+  width: 400px;
+  height: 480px;
+  margin: 10px;
+  border: 5px solid #FFFFFF;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#gallery1 {
+
+  background-image: url('images/aliwong.jpg');
+}
+
+#gallery2 {
+
+  background-image: url('images/amysedaris.jpg');
+}
+
+#gallery3 {
+
+  background-image: url('images/tinafey.jpg');
+}
+
+@media all and (max-width: 1020px) {
+  .gallery-image {
+    float: none;
+    margin: 10px auto;
+  }
+}
+
+@media all and (max-width: 500px) {
+  .gallery-image {
+    border: none;
+    width: 100vw;
+    height: 100vw;
+  }
+}

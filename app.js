@@ -19,14 +19,20 @@ app.get("/link", function(req, res) {
 	res.render("links");
 });
 */
-//	Jane Park Webpage
+//	Jane Park Webpage Template
 
-app.get("/janepark", function(req, res) {
-	console.log("Jane Park Homepage");
-	res.render("janepark");
+app.get("/", function(req, res) {
+	res.render("template", {
+		page: "janepark",
+		imagegallery: "http://localhost:3000/imagegallery",
+		github: "http://www.github.com/janepark7",
+		linkedin:"https://www.linkedin.com/in/jane-park-7aa208132/",
+	});
 });
 
-
+app.get("/imagegallery", function(req, res) {
+	res.render("imagegallery.ejs");
+});
 
 app.listen(3000, function() {
 	console.log("Your server is available at localhost:3000!");
