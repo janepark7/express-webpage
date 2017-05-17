@@ -31,12 +31,16 @@ app.get("/link", function(req, res) {
 // 	res.render("countries.ejs", country);
 // });
 
+
 app.get("/", function(req, res) {
 	res.render("template", {
 		page: "janepark",
 		imagegallery: "imagegallery",
-		// countries: "countries",
 	});
+});
+
+app.get("/imagegallery", function(req, res) {
+	res.render("imagegallery");
 });
 
 app.listen(3000, function() {
