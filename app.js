@@ -28,12 +28,11 @@ app.get("/imagegallery", function(req, res) {
 	res.render("imagegallery.ejs");
 });
 
+//change the app.get and create a function
 
 app.get("/countries", function(req, res) {
-
-var country = countries.USA;
+	var country = countries.GBR;
 	console.log(country);
-
 	res.render("countries.ejs", country);
 });
 
