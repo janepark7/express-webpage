@@ -1,0 +1,1731 @@
+{
+"AFG": {
+"name": "Afghanistan",
+"nativeName": "افغانستان",
+"population": 26023100,
+"region": "Asia",
+"flag": "https://restcountries.eu/data/afg.svg"
+},
+"ALA": {
+"name": "Åland Islands",
+"nativeName": "Åland",
+"population": 28875,
+"region": "Europe",
+"flag": "https://restcountries.eu/data/ala.svg"
+},
+"ALB": {
+"name": "Albania",
+"nativeName": "Shqipëria",
+"population": 2893005,
+"region": "Europe",
+"flag": "https://restcountries.eu/data/alb.svg"
+},
+"DZA": {
+"name": "Algeria",
+"nativeName": "الجزائر",
+"population": 39500000,
+"region": "Africa",
+"flag": "https://restcountries.eu/data/dza.svg"
+},
+"ASM": {
+"name": "American Samoa",
+"nativeName": "American Samoa",
+"population": 55519,
+"region": "Oceania",
+"flag": "https://restcountries.eu/data/asm.svg"
+},
+"AND": {
+"name": "Andorra",
+"nativeName": "Andorra",
+"population": 76949,
+"region": "Europe",
+"flag": "https://restcountries.eu/data/and.svg"
+},
+"AGO": {
+"name": "Angola",
+"nativeName": "Angola",
+"population": 24383301,
+"region": "Africa",
+"flag": "https://restcountries.eu/data/ago.svg"
+},
+"AIA": {
+"name": "Anguilla",
+"nativeName": "Anguilla",
+"population": 13452,
+"region": "Americas",
+"flag": "https://restcountries.eu/data/aia.svg"
+},
+"ATG": {
+"name": "Antigua and Barbuda",
+"nativeName": "Antigua and Barbuda",
+"population": 86295,
+"region": "Americas",
+"flag": "https://restcountries.eu/data/atg.svg"
+},
+"ARG": {
+"name": "Argentina",
+"nativeName": "Argentina",
+"population": 43131966,
+"region": "Americas",
+"flag": "https://restcountries.eu/data/arg.svg"
+},
+"ARM": {
+"name": "Armenia",
+"nativeName": "Հայաստան",
+"population": 3006800,
+"region": "Asia",
+"flag": "https://restcountries.eu/data/arm.svg"
+},
+"ABW": {
+"name": "Aruba",
+"nativeName": "Aruba",
+"population": 107394,
+"region": "Americas",
+"flag": "https://restcountries.eu/data/abw.svg"
+},
+"AUS": {
+"name": "Australia",
+"nativeName": "Australia",
+"population": 23868800,
+"region": "Oceania",
+"flag": "https://restcountries.eu/data/aus.svg"
+},
+"AUT": {
+"name": "Austria",
+"nativeName": "Österreich",
+"population": 8602112,
+"region": "Europe",
+"flag": "https://restcountries.eu/data/aut.svg"
+},
+"AZE": {
+"name": "Azerbaijan",
+"nativeName": "Azərbaycan",
+"population": 9636300,
+"region": "Asia",
+"flag": "https://restcountries.eu/data/aze.svg"
+},
+"BHS": {
+"name": "The Bahamas",
+"nativeName": "Bahamas",
+"population": 368390,
+"region": "Americas",
+"flag": "https://restcountries.eu/data/bhs.svg"
+},
+"BHR": {
+"name": "Bahrain",
+"nativeName": "‏البحرين",
+"population": 1359800,
+"region": "Asia",
+"flag": "https://restcountries.eu/data/bhr.svg"
+},
+"BGD": {
+"name": "Bangladesh",
+"nativeName": "Bangladesh",
+"population": 158875000,
+"region": "Asia",
+"flag": "https://restcountries.eu/data/bgd.svg"
+},
+"BRB": {
+"name": "Barbados",
+"nativeName": "Barbados",
+"population": 285000,
+"region": "Americas",
+"flag": "https://restcountries.eu/data/brb.svg"
+},
+"BLR": {
+"name": "Belarus",
+"nativeName": "Белару́сь",
+"population": 9485300,
+"region": "Europe",
+"flag": "https://restcountries.eu/data/blr.svg"
+},
+"BEL": {
+"name": "Belgium",
+"nativeName": "België",
+"population": 11248330,
+"region": "Europe",
+"flag": "https://restcountries.eu/data/bel.svg"
+},
+"BLZ": {
+"name": "Belize",
+"nativeName": "Belize",
+"population": 368310,
+"region": "Americas",
+"flag": "https://restcountries.eu/data/blz.svg"
+},
+"BEN": {
+"name": "Benin",
+"nativeName": "Bénin",
+"population": 10315244,
+"region": "Africa",
+"flag": "https://restcountries.eu/data/ben.svg"
+},
+"BMU": {
+"name": "Bermuda",
+"nativeName": "Bermuda",
+"population": 64237,
+"region": "Americas",
+"flag": "https://restcountries.eu/data/bmu.svg"
+},
+"BTN": {
+"name": "Bhutan",
+"nativeName": "ʼbrug-yul",
+"population": 763920,
+"region": "Asia",
+"flag": "https://restcountries.eu/data/btn.svg"
+},
+"BOL": {
+"name": "Bolivia",
+"nativeName": "Bolivia",
+"population": 11410651,
+"region": "Americas",
+"flag": "https://restcountries.eu/data/bol.svg"
+},
+"BES": {
+"name": "Bonaire",
+"nativeName": "Bonaire",
+"population": 17408,
+"region": "Americas",
+"flag": "https://restcountries.eu/data/bes.svg"
+},
+"BIH": {
+"name": "Bosnia and Herzegovina",
+"nativeName": "Bosna i Hercegovina",
+"population": 3791622,
+"region": "Europe",
+"flag": "https://restcountries.eu/data/bih.svg"
+},
+"BWA": {
+"name": "Botswana",
+"nativeName": "Botswana",
+"population": 2070984,
+"region": "Africa",
+"flag": "https://restcountries.eu/data/bwa.svg"
+},
+"BVT": {
+"name": "Bouvet Island",
+"nativeName": "Bouvetøya",
+"population": 0,
+"region": "",
+"flag": "https://restcountries.eu/data/bvt.svg"
+},
+"BRA": {
+"name": "Brazil",
+"nativeName": "Brasil",
+"population": 204772000,
+"region": "Americas",
+"flag": "https://restcountries.eu/data/bra.svg"
+},
+"IOT": {
+"name": "British Indian Ocean Territory",
+"nativeName": "British Indian Ocean Territory",
+"population": 3000,
+"region": "Africa",
+"flag": "https://restcountries.eu/data/iot.svg"
+},
+"UMI": {
+"name": "United States Minor Outlying Islands",
+"nativeName": "United States Minor Outlying Islands",
+"population": 300,
+"region": "Americas",
+"flag": "https://restcountries.eu/data/umi.svg"
+},
+"VGB": {
+"name": "British Virgin Islands",
+"nativeName": "British Virgin Islands",
+"population": 28054,
+"region": "Americas",
+"flag": "https://restcountries.eu/data/vgb.svg"
+},
+"BRN": {
+"name": "Brunei",
+"nativeName": "Negara Brunei Darussalam",
+"population": 393372,
+"region": "Asia",
+"flag": "https://restcountries.eu/data/brn.svg"
+},
+"BGR": {
+"name": "Bulgaria",
+"nativeName": "България",
+"population": 7202198,
+"region": "Europe",
+"flag": "https://restcountries.eu/data/bgr.svg"
+},
+"BFA": {
+"name": "Burkina Faso",
+"nativeName": "Burkina Faso",
+"population": 18450494,
+"region": "Africa",
+"flag": "https://restcountries.eu/data/bfa.svg"
+},
+"BDI": {
+"name": "Burundi",
+"nativeName": "Burundi",
+"population": 9823827,
+"region": "Africa",
+"flag": "https://restcountries.eu/data/bdi.svg"
+},
+"KHM": {
+"name": "Cambodia",
+"nativeName": "Kâmpŭchéa",
+"population": 15405157,
+"region": "Asia",
+"flag": "https://restcountries.eu/data/khm.svg"
+},
+"CMR": {
+"name": "Cameroon",
+"nativeName": "Cameroon",
+"population": 23344000,
+"region": "Africa",
+"flag": "https://restcountries.eu/data/cmr.svg"
+},
+"CAN": {
+"name": "Canada",
+"nativeName": "Canada",
+"population": 35749600,
+"region": "Americas",
+"flag": "https://restcountries.eu/data/can.svg"
+},
+"CPV": {
+"name": "Cape Verde",
+"nativeName": "Cabo Verde",
+"population": 524833,
+"region": "Africa",
+"flag": "https://restcountries.eu/data/cpv.svg"
+},
+"CYM": {
+"name": "Cayman Islands",
+"nativeName": "Cayman Islands",
+"population": 58238,
+"region": "Americas",
+"flag": "https://restcountries.eu/data/cym.svg"
+},
+"CAF": {
+"name": "Central African Republic",
+"nativeName": "Ködörösêse tî Bêafrîka",
+"population": 4900000,
+"region": "Africa",
+"flag": "https://restcountries.eu/data/caf.svg"
+},
+"TCD": {
+"name": "Chad",
+"nativeName": "Tchad",
+"population": 14037000,
+"region": "Africa",
+"flag": "https://restcountries.eu/data/tcd.svg"
+},
+"CHL": {
+"name": "Chile",
+"nativeName": "Chile",
+"population": 18006407,
+"region": "Americas",
+"flag": "https://restcountries.eu/data/chl.svg"
+},
+"CHN": {
+"name": "China",
+"nativeName": "中国",
+"population": 1371590000,
+"region": "Asia",
+"flag": "https://restcountries.eu/data/chn.svg"
+},
+"CXR": {
+"name": "Christmas Island",
+"nativeName": "Christmas Island",
+"population": 2072,
+"region": "Oceania",
+"flag": "https://restcountries.eu/data/cxr.svg"
+},
+"CCK": {
+"name": "Cocos (Keeling) Islands",
+"nativeName": "Cocos (Keeling) Islands",
+"population": 550,
+"region": "Oceania",
+"flag": "https://restcountries.eu/data/cck.svg"
+},
+"COL": {
+"name": "Colombia",
+"nativeName": "Colombia",
+"population": 48266600,
+"region": "Americas",
+"flag": "https://restcountries.eu/data/col.svg"
+},
+"COM": {
+"name": "Comoros",
+"nativeName": "Komori",
+"population": 784745,
+"region": "Africa",
+"flag": "https://restcountries.eu/data/com.svg"
+},
+"COG": {
+"name": "Republic of the Congo",
+"nativeName": "République du Congo",
+"population": 4620000,
+"region": "Africa",
+"flag": "https://restcountries.eu/data/cog.svg"
+},
+"COD": {
+"name": "Democratic Republic of the Congo",
+"nativeName": "République démocratique du Congo",
+"population": 77267000,
+"region": "Africa",
+"flag": "https://restcountries.eu/data/cod.svg"
+},
+"COK": {
+"name": "Cook Islands",
+"nativeName": "Cook Islands",
+"population": 14974,
+"region": "Oceania",
+"flag": "https://restcountries.eu/data/cok.svg"
+},
+"CRI": {
+"name": "Costa Rica",
+"nativeName": "Costa Rica",
+"population": 4773130,
+"region": "Americas",
+"flag": "https://restcountries.eu/data/cri.svg"
+},
+"HRV": {
+"name": "Croatia",
+"nativeName": "Hrvatska",
+"population": 4246800,
+"region": "Europe",
+"flag": "https://restcountries.eu/data/hrv.svg"
+},
+"CUB": {
+"name": "Cuba",
+"nativeName": "Cuba",
+"population": 11238317,
+"region": "Americas",
+"flag": "https://restcountries.eu/data/cub.svg"
+},
+"CUW": {
+"name": "Curaçao",
+"nativeName": "Curaçao",
+"population": 154843,
+"region": "Americas",
+"flag": "https://restcountries.eu/data/cuw.svg"
+},
+"CYP": {
+"name": "Cyprus",
+"nativeName": "Κύπρος",
+"population": 858000,
+"region": "Europe",
+"flag": "https://restcountries.eu/data/cyp.svg"
+},
+"CZE": {
+"name": "Czech Republic",
+"nativeName": "Česká republika",
+"population": 10537818,
+"region": "Europe",
+"flag": "https://restcountries.eu/data/cze.svg"
+},
+"DNK": {
+"name": "Denmark",
+"nativeName": "Danmark",
+"population": 5678348,
+"region": "Europe",
+"flag": "https://restcountries.eu/data/dnk.svg"
+},
+"DJI": {
+"name": "Djibouti",
+"nativeName": "Djibouti",
+"population": 888000,
+"region": "Africa",
+"flag": "https://restcountries.eu/data/dji.svg"
+},
+"DMA": {
+"name": "Dominica",
+"nativeName": "Dominica",
+"population": 71293,
+"region": "Americas",
+"flag": "https://restcountries.eu/data/dma.svg"
+},
+"DOM": {
+"name": "Dominican Republic",
+"nativeName": "República Dominicana",
+"population": 10528000,
+"region": "Americas",
+"flag": "https://restcountries.eu/data/dom.svg"
+},
+"ECU": {
+"name": "Ecuador",
+"nativeName": "Ecuador",
+"population": 16027500,
+"region": "Americas",
+"flag": "https://restcountries.eu/data/ecu.svg"
+},
+"EGY": {
+"name": "Egypt",
+"nativeName": "مصر‎",
+"population": 89335600,
+"region": "Africa",
+"flag": "https://restcountries.eu/data/egy.svg"
+},
+"SLV": {
+"name": "El Salvador",
+"nativeName": "El Salvador",
+"population": 6401240,
+"region": "Americas",
+"flag": "https://restcountries.eu/data/slv.svg"
+},
+"GNQ": {
+"name": "Equatorial Guinea",
+"nativeName": "Guinea Ecuatorial",
+"population": 1430000,
+"region": "Africa",
+"flag": "https://restcountries.eu/data/gnq.svg"
+},
+"ERI": {
+"name": "Eritrea",
+"nativeName": "ኤርትራ",
+"population": 5228000,
+"region": "Africa",
+"flag": "https://restcountries.eu/data/eri.svg"
+},
+"EST": {
+"name": "Estonia",
+"nativeName": "Eesti",
+"population": 1313271,
+"region": "Europe",
+"flag": "https://restcountries.eu/data/est.svg"
+},
+"ETH": {
+"name": "Ethiopia",
+"nativeName": "ኢትዮጵያ",
+"population": 90076012,
+"region": "Africa",
+"flag": "https://restcountries.eu/data/eth.svg"
+},
+"FLK": {
+"name": "Falkland Islands",
+"nativeName": "Falkland Islands",
+"population": 3000,
+"region": "Americas",
+"flag": "https://restcountries.eu/data/flk.svg"
+},
+"FRO": {
+"name": "Faroe Islands",
+"nativeName": "Føroyar",
+"population": 48846,
+"region": "Europe",
+"flag": "https://restcountries.eu/data/fro.svg"
+},
+"FJI": {
+"name": "Fiji",
+"nativeName": "Fiji",
+"population": 859178,
+"region": "Oceania",
+"flag": "https://restcountries.eu/data/fji.svg"
+},
+"FIN": {
+"name": "Finland",
+"nativeName": "Suomi",
+"population": 5485215,
+"region": "Europe",
+"flag": "https://restcountries.eu/data/fin.svg"
+},
+"FRA": {
+"name": "France",
+"nativeName": "France",
+"population": 66186000,
+"region": "Europe",
+"flag": "https://restcountries.eu/data/fra.svg"
+},
+"GUF": {
+"name": "French Guiana",
+"nativeName": "Guyane française",
+"population": 239648,
+"region": "Americas",
+"flag": "https://restcountries.eu/data/guf.svg"
+},
+"PYF": {
+"name": "French Polynesia",
+"nativeName": "Polynésie française",
+"population": 268270,
+"region": "Oceania",
+"flag": "https://restcountries.eu/data/pyf.svg"
+},
+"ATF": {
+"name": "French Southern and Antarctic Lands",
+"nativeName": "Territoire des Terres australes et antarctiques françaises",
+"population": 140,
+"region": "",
+"flag": "https://restcountries.eu/data/atf.svg"
+},
+"GAB": {
+"name": "Gabon",
+"nativeName": "Gabon",
+"population": 1725000,
+"region": "Africa",
+"flag": "https://restcountries.eu/data/gab.svg"
+},
+"GMB": {
+"name": "The Gambia",
+"nativeName": "Gambia",
+"population": 1882450,
+"region": "Africa",
+"flag": "https://restcountries.eu/data/gmb.svg"
+},
+"GEO": {
+"name": "Georgia",
+"nativeName": "საქართველო",
+"population": 3729500,
+"region": "Asia",
+"flag": "https://restcountries.eu/data/geo.svg"
+},
+"DEU": {
+"name": "Germany",
+"nativeName": "Deutschland",
+"population": 81083600,
+"region": "Europe",
+"flag": "https://restcountries.eu/data/deu.svg"
+},
+"GHA": {
+"name": "Ghana",
+"nativeName": "Ghana",
+"population": 27043093,
+"region": "Africa",
+"flag": "https://restcountries.eu/data/gha.svg"
+},
+"GIB": {
+"name": "Gibraltar",
+"nativeName": "Gibraltar",
+"population": 32734,
+"region": "Europe",
+"flag": "https://restcountries.eu/data/gib.svg"
+},
+"GRC": {
+"name": "Greece",
+"nativeName": "Ελλάδα",
+"population": 10846979,
+"region": "Europe",
+"flag": "https://restcountries.eu/data/grc.svg"
+},
+"GRL": {
+"name": "Greenland",
+"nativeName": "Kalaallit Nunaat",
+"population": 56114,
+"region": "Americas",
+"flag": "https://restcountries.eu/data/grl.svg"
+},
+"GRD": {
+"name": "Grenada",
+"nativeName": "Grenada",
+"population": 103328,
+"region": "Americas",
+"flag": "https://restcountries.eu/data/grd.svg"
+},
+"GLP": {
+"name": "Guadeloupe",
+"nativeName": "Guadeloupe",
+"population": 403750,
+"region": "Americas",
+"flag": "https://restcountries.eu/data/glp.svg"
+},
+"GUM": {
+"name": "Guam",
+"nativeName": "Guam",
+"population": 159358,
+"region": "Oceania",
+"flag": "https://restcountries.eu/data/gum.svg"
+},
+"GTM": {
+"name": "Guatemala",
+"nativeName": "Guatemala",
+"population": 16176133,
+"region": "Americas",
+"flag": "https://restcountries.eu/data/gtm.svg"
+},
+"GGY": {
+"name": "Guernsey",
+"nativeName": "Guernsey",
+"population": 65150,
+"region": "Europe",
+"flag": "https://restcountries.eu/data/ggy.svg"
+},
+"GIN": {
+"name": "Guinea",
+"nativeName": "Guinée",
+"population": 10628972,
+"region": "Africa",
+"flag": "https://restcountries.eu/data/gin.svg"
+},
+"GNB": {
+"name": "Guinea-Bissau",
+"nativeName": "Guiné-Bissau",
+"population": 1844000,
+"region": "Africa",
+"flag": "https://restcountries.eu/data/gnb.svg"
+},
+"GUY": {
+"name": "Guyana",
+"nativeName": "Guyana",
+"population": 746900,
+"region": "Americas",
+"flag": "https://restcountries.eu/data/guy.svg"
+},
+"HTI": {
+"name": "Haiti",
+"nativeName": "Haïti",
+"population": 10911819,
+"region": "Americas",
+"flag": "https://restcountries.eu/data/hti.svg"
+},
+"HMD": {
+"name": "Heard Island and McDonald Islands",
+"nativeName": "Heard Island and McDonald Islands",
+"population": 0,
+"region": "",
+"flag": "https://restcountries.eu/data/hmd.svg"
+},
+"HND": {
+"name": "Honduras",
+"nativeName": "Honduras",
+"population": 8725111,
+"region": "Americas",
+"flag": "https://restcountries.eu/data/hnd.svg"
+},
+"HKG": {
+"name": "Hong Kong",
+"nativeName": "香港",
+"population": 7298600,
+"region": "Asia",
+"flag": "https://restcountries.eu/data/hkg.svg"
+},
+"HUN": {
+"name": "Hungary",
+"nativeName": "Magyarország",
+"population": 9849000,
+"region": "Europe",
+"flag": "https://restcountries.eu/data/hun.svg"
+},
+"ISL": {
+"name": "Iceland",
+"nativeName": "Ísland",
+"population": 330610,
+"region": "Europe",
+"flag": "https://restcountries.eu/data/isl.svg"
+},
+"IND": {
+"name": "India",
+"nativeName": "भारत",
+"population": 1275840000,
+"region": "Asia",
+"flag": "https://restcountries.eu/data/ind.svg"
+},
+"IDN": {
+"name": "Indonesia",
+"nativeName": "Indonesia",
+"population": 255461700,
+"region": "Asia",
+"flag": "https://restcountries.eu/data/idn.svg"
+},
+"CIV": {
+"name": "Ivory Coast",
+"nativeName": "Côte d'Ivoire",
+"population": 22671331,
+"region": "Africa",
+"flag": "https://restcountries.eu/data/civ.svg"
+},
+"IRN": {
+"name": "Iran",
+"nativeName": "Irān",
+"population": 78572500,
+"region": "Asia",
+"flag": "https://restcountries.eu/data/irn.svg"
+},
+"IRQ": {
+"name": "Iraq",
+"nativeName": "العراق",
+"population": 36004552,
+"region": "Asia",
+"flag": "https://restcountries.eu/data/irq.svg"
+},
+"IRL": {
+"name": "Republic of Ireland",
+"nativeName": "Éire",
+"population": 6378000,
+"region": "Europe",
+"flag": "https://restcountries.eu/data/irl.svg"
+},
+"IMN": {
+"name": "Isle of Man",
+"nativeName": "Isle of Man",
+"population": 84497,
+"region": "Europe",
+"flag": "https://restcountries.eu/data/imn.svg"
+},
+"ISR": {
+"name": "Israel",
+"nativeName": "יִשְׂרָאֵל",
+"population": 8371600,
+"region": "Asia",
+"flag": "https://restcountries.eu/data/isr.svg"
+},
+"ITA": {
+"name": "Italy",
+"nativeName": "Italia",
+"population": 60753794,
+"region": "Europe",
+"flag": "https://restcountries.eu/data/ita.svg"
+},
+"JAM": {
+"name": "Jamaica",
+"nativeName": "Jamaica",
+"population": 2717991,
+"region": "Americas",
+"flag": "https://restcountries.eu/data/jam.svg"
+},
+"JPN": {
+"name": "Japan",
+"nativeName": "日本",
+"population": 126865000,
+"region": "Asia",
+"flag": "https://restcountries.eu/data/jpn.svg"
+},
+"JEY": {
+"name": "Jersey",
+"nativeName": "Jersey",
+"population": 99000,
+"region": "Europe",
+"flag": "https://restcountries.eu/data/jey.svg"
+},
+"JOR": {
+"name": "Jordan",
+"nativeName": "الأردن",
+"population": 6767600,
+"region": "Asia",
+"flag": "https://restcountries.eu/data/jor.svg"
+},
+"KAZ": {
+"name": "Kazakhstan",
+"nativeName": "Қазақстан",
+"population": 17541200,
+"region": "Asia",
+"flag": "https://restcountries.eu/data/kaz.svg"
+},
+"KEN": {
+"name": "Kenya",
+"nativeName": "Kenya",
+"population": 46050000,
+"region": "Africa",
+"flag": "https://restcountries.eu/data/ken.svg"
+},
+"KIR": {
+"name": "Kiribati",
+"nativeName": "Kiribati",
+"population": 106461,
+"region": "Oceania",
+"flag": "https://restcountries.eu/data/kir.svg"
+},
+"KWT": {
+"name": "Kuwait",
+"nativeName": "الكويت",
+"population": 3268431,
+"region": "Asia",
+"flag": "https://restcountries.eu/data/kwt.svg"
+},
+"KGZ": {
+"name": "Kyrgyzstan",
+"nativeName": "Кыргызстан",
+"population": 5944400,
+"region": "Asia",
+"flag": "https://restcountries.eu/data/kgz.svg"
+},
+"LAO": {
+"name": "Laos",
+"nativeName": "ສປປລາວ",
+"population": 6802000,
+"region": "Asia",
+"flag": "https://restcountries.eu/data/lao.svg"
+},
+"LVA": {
+"name": "Latvia",
+"nativeName": "Latvija",
+"population": 1980700,
+"region": "Europe",
+"flag": "https://restcountries.eu/data/lva.svg"
+},
+"LBN": {
+"name": "Lebanon",
+"nativeName": "لبنان",
+"population": 4104000,
+"region": "Asia",
+"flag": "https://restcountries.eu/data/lbn.svg"
+},
+"LSO": {
+"name": "Lesotho",
+"nativeName": "Lesotho",
+"population": 2135000,
+"region": "Africa",
+"flag": "https://restcountries.eu/data/lso.svg"
+},
+"LBR": {
+"name": "Liberia",
+"nativeName": "Liberia",
+"population": 4503000,
+"region": "Africa",
+"flag": "https://restcountries.eu/data/lbr.svg"
+},
+"LBY": {
+"name": "Libya",
+"nativeName": "‏ليبيا",
+"population": 6278000,
+"region": "Africa",
+"flag": "https://restcountries.eu/data/lby.svg"
+},
+"LIE": {
+"name": "Liechtenstein",
+"nativeName": "Liechtenstein",
+"population": 37370,
+"region": "Europe",
+"flag": "https://restcountries.eu/data/lie.svg"
+},
+"LTU": {
+"name": "Lithuania",
+"nativeName": "Lietuva",
+"population": 2900787,
+"region": "Europe",
+"flag": "https://restcountries.eu/data/ltu.svg"
+},
+"LUX": {
+"name": "Luxembourg",
+"nativeName": "Luxembourg",
+"population": 562958,
+"region": "Europe",
+"flag": "https://restcountries.eu/data/lux.svg"
+},
+"MAC": {
+"name": "Macau",
+"nativeName": "澳門",
+"population": 642900,
+"region": "Asia",
+"flag": "https://restcountries.eu/data/mac.svg"
+},
+"MKD": {
+"name": "Republic of Macedonia",
+"nativeName": "Македонија",
+"population": 2058539,
+"region": "Europe",
+"flag": "https://restcountries.eu/data/mkd.svg"
+},
+"MDG": {
+"name": "Madagascar",
+"nativeName": "Madagasikara",
+"population": 22434363,
+"region": "Africa",
+"flag": "https://restcountries.eu/data/mdg.svg"
+},
+"MWI": {
+"name": "Malawi",
+"nativeName": "Malawi",
+"population": 16310431,
+"region": "Africa",
+"flag": "https://restcountries.eu/data/mwi.svg"
+},
+"MYS": {
+"name": "Malaysia",
+"nativeName": "Malaysia",
+"population": 30678800,
+"region": "Asia",
+"flag": "https://restcountries.eu/data/mys.svg"
+},
+"MDV": {
+"name": "Maldives",
+"nativeName": "Maldives",
+"population": 341256,
+"region": "Asia",
+"flag": "https://restcountries.eu/data/mdv.svg"
+},
+"MLI": {
+"name": "Mali",
+"nativeName": "Mali",
+"population": 17600000,
+"region": "Africa",
+"flag": "https://restcountries.eu/data/mli.svg"
+},
+"MLT": {
+"name": "Malta",
+"nativeName": "Malta",
+"population": 445426,
+"region": "Europe",
+"flag": "https://restcountries.eu/data/mlt.svg"
+},
+"MHL": {
+"name": "Marshall Islands",
+"nativeName": "M̧ajeļ",
+"population": 56086,
+"region": "Oceania",
+"flag": "https://restcountries.eu/data/mhl.svg"
+},
+"MTQ": {
+"name": "Martinique",
+"nativeName": "Martinique",
+"population": 381326,
+"region": "Americas",
+"flag": "https://restcountries.eu/data/mtq.svg"
+},
+"MRT": {
+"name": "Mauritania",
+"nativeName": "موريتانيا",
+"population": 3631775,
+"region": "Africa",
+"flag": "https://restcountries.eu/data/mrt.svg"
+},
+"MUS": {
+"name": "Mauritius",
+"nativeName": "Maurice",
+"population": 1261208,
+"region": "Africa",
+"flag": "https://restcountries.eu/data/mus.svg"
+},
+"MYT": {
+"name": "Mayotte",
+"nativeName": "Mayotte",
+"population": 212645,
+"region": "Africa",
+"flag": "https://restcountries.eu/data/myt.svg"
+},
+"MEX": {
+"name": "Mexico",
+"nativeName": "México",
+"population": 121740000,
+"region": "Americas",
+"flag": "https://restcountries.eu/data/mex.svg"
+},
+"FSM": {
+"name": "Federated States of Micronesia",
+"nativeName": "Micronesia",
+"population": 101351,
+"region": "Oceania",
+"flag": "https://restcountries.eu/data/fsm.svg"
+},
+"MDA": {
+"name": "Moldova",
+"nativeName": "Moldova",
+"population": 3555200,
+"region": "Europe",
+"flag": "https://restcountries.eu/data/mda.svg"
+},
+"MCO": {
+"name": "Monaco",
+"nativeName": "Monaco",
+"population": 37800,
+"region": "Europe",
+"flag": "https://restcountries.eu/data/mco.svg"
+},
+"MNG": {
+"name": "Mongolia",
+"nativeName": "Монгол улс",
+"population": 3031099,
+"region": "Asia",
+"flag": "https://restcountries.eu/data/mng.svg"
+},
+"MNE": {
+"name": "Montenegro",
+"nativeName": "Црна Гора",
+"population": 621207,
+"region": "Europe",
+"flag": "https://restcountries.eu/data/mne.svg"
+},
+"MSR": {
+"name": "Montserrat",
+"nativeName": "Montserrat",
+"population": 4922,
+"region": "Americas",
+"flag": "https://restcountries.eu/data/msr.svg"
+},
+"MAR": {
+"name": "Morocco",
+"nativeName": "المغرب",
+"population": 33337529,
+"region": "Africa",
+"flag": "https://restcountries.eu/data/mar.svg"
+},
+"MOZ": {
+"name": "Mozambique",
+"nativeName": "Moçambique",
+"population": 25727911,
+"region": "Africa",
+"flag": "https://restcountries.eu/data/moz.svg"
+},
+"MMR": {
+"name": "Myanmar",
+"nativeName": "Myanma",
+"population": 53897000,
+"region": "Asia",
+"flag": "https://restcountries.eu/data/mmr.svg"
+},
+"NAM": {
+"name": "Namibia",
+"nativeName": "Namibia",
+"population": 2280700,
+"region": "Africa",
+"flag": "https://restcountries.eu/data/nam.svg"
+},
+"NRU": {
+"name": "Nauru",
+"nativeName": "Nauru",
+"population": 10084,
+"region": "Oceania",
+"flag": "https://restcountries.eu/data/nru.svg"
+},
+"NPL": {
+"name": "Nepal",
+"nativeName": "नपल",
+"population": 28037904,
+"region": "Asia",
+"flag": "https://restcountries.eu/data/npl.svg"
+},
+"NLD": {
+"name": "Netherlands",
+"nativeName": "Nederland",
+"population": 16916000,
+"region": "Europe",
+"flag": "https://restcountries.eu/data/nld.svg"
+},
+"NCL": {
+"name": "New Caledonia",
+"nativeName": "Nouvelle-Calédonie",
+"population": 268767,
+"region": "Oceania",
+"flag": "https://restcountries.eu/data/ncl.svg"
+},
+"NZL": {
+"name": "New Zealand",
+"nativeName": "New Zealand",
+"population": 4609440,
+"region": "Oceania",
+"flag": "https://restcountries.eu/data/nzl.svg"
+},
+"NIC": {
+"name": "Nicaragua",
+"nativeName": "Nicaragua",
+"population": 6198154,
+"region": "Americas",
+"flag": "https://restcountries.eu/data/nic.svg"
+},
+"NER": {
+"name": "Niger",
+"nativeName": "Niger",
+"population": 19899000,
+"region": "Africa",
+"flag": "https://restcountries.eu/data/ner.svg"
+},
+"NGA": {
+"name": "Nigeria",
+"nativeName": "Nigeria",
+"population": 182202000,
+"region": "Africa",
+"flag": "https://restcountries.eu/data/nga.svg"
+},
+"NIU": {
+"name": "Niue",
+"nativeName": "Niuē",
+"population": 1613,
+"region": "Oceania",
+"flag": "https://restcountries.eu/data/niu.svg"
+},
+"NFK": {
+"name": "Norfolk Island",
+"nativeName": "Norfolk Island",
+"population": 2302,
+"region": "Oceania",
+"flag": "https://restcountries.eu/data/nfk.svg"
+},
+"PRK": {
+"name": "North Korea",
+"nativeName": "북한",
+"population": 25155000,
+"region": "Asia",
+"flag": "https://restcountries.eu/data/prk.svg"
+},
+"MNP": {
+"name": "Northern Mariana Islands",
+"nativeName": "Northern Mariana Islands",
+"population": 53883,
+"region": "Oceania",
+"flag": "https://restcountries.eu/data/mnp.svg"
+},
+"NOR": {
+"name": "Norway",
+"nativeName": "Norge",
+"population": 5176998,
+"region": "Europe",
+"flag": "https://restcountries.eu/data/nor.svg"
+},
+"OMN": {
+"name": "Oman",
+"nativeName": "عمان",
+"population": 4185440,
+"region": "Asia",
+"flag": "https://restcountries.eu/data/omn.svg"
+},
+"PAK": {
+"name": "Pakistan",
+"nativeName": "Pakistan",
+"population": 190668000,
+"region": "Asia",
+"flag": "https://restcountries.eu/data/pak.svg"
+},
+"PLW": {
+"name": "Palau",
+"nativeName": "Palau",
+"population": 20901,
+"region": "Oceania",
+"flag": "https://restcountries.eu/data/plw.svg"
+},
+"PSE": {
+"name": "Palestine",
+"nativeName": "فلسطين",
+"population": 4682467,
+"region": "Asia",
+"flag": "https://restcountries.eu/data/pse.svg"
+},
+"PAN": {
+"name": "Panama",
+"nativeName": "Panamá",
+"population": 3764166,
+"region": "Americas",
+"flag": "https://restcountries.eu/data/pan.svg"
+},
+"PNG": {
+"name": "Papua New Guinea",
+"nativeName": "Papua Niugini",
+"population": 7398500,
+"region": "Oceania",
+"flag": "https://restcountries.eu/data/png.svg"
+},
+"PRY": {
+"name": "Paraguay",
+"nativeName": "Paraguay",
+"population": 7003406,
+"region": "Americas",
+"flag": "https://restcountries.eu/data/pry.svg"
+},
+"PER": {
+"name": "Peru",
+"nativeName": "Perú",
+"population": 31151643,
+"region": "Americas",
+"flag": "https://restcountries.eu/data/per.svg"
+},
+"PHL": {
+"name": "Philippines",
+"nativeName": "Pilipinas",
+"population": 101920000,
+"region": "Asia",
+"flag": "https://restcountries.eu/data/phl.svg"
+},
+"PCN": {
+"name": "Pitcairn Islands",
+"nativeName": "Pitcairn Islands",
+"population": 56,
+"region": "Oceania",
+"flag": "https://restcountries.eu/data/pcn.svg"
+},
+"POL": {
+"name": "Poland",
+"nativeName": "Polska",
+"population": 38484000,
+"region": "Europe",
+"flag": "https://restcountries.eu/data/pol.svg"
+},
+"PRT": {
+"name": "Portugal",
+"nativeName": "Portugal",
+"population": 10374822,
+"region": "Europe",
+"flag": "https://restcountries.eu/data/prt.svg"
+},
+"PRI": {
+"name": "Puerto Rico",
+"nativeName": "Puerto Rico",
+"population": 3548397,
+"region": "Americas",
+"flag": "https://restcountries.eu/data/pri.svg"
+},
+"QAT": {
+"name": "Qatar",
+"nativeName": "قطر",
+"population": 2120129,
+"region": "Asia",
+"flag": "https://restcountries.eu/data/qat.svg"
+},
+"KOS": {
+"name": "Republic of Kosovo",
+"nativeName": "Republika e Kosovës",
+"population": 1733842,
+"region": "Europe",
+"flag": "https://restcountries.eu/data/kos.svg"
+},
+"REU": {
+"name": "Réunion",
+"nativeName": "La Réunion",
+"population": 840974,
+"region": "Africa",
+"flag": "https://restcountries.eu/data/reu.svg"
+},
+"ROU": {
+"name": "Romania",
+"nativeName": "România",
+"population": 19942642,
+"region": "Europe",
+"flag": "https://restcountries.eu/data/rou.svg"
+},
+"RUS": {
+"name": "Russia",
+"nativeName": "Россия",
+"population": 146556330,
+"region": "Europe",
+"flag": "https://restcountries.eu/data/rus.svg"
+},
+"RWA": {
+"name": "Rwanda",
+"nativeName": "Rwanda",
+"population": 11262564,
+"region": "Africa",
+"flag": "https://restcountries.eu/data/rwa.svg"
+},
+"BLM": {
+"name": "Saint Barthélemy",
+"nativeName": "Saint-Barthélemy",
+"population": 9269,
+"region": "Americas",
+"flag": "https://restcountries.eu/data/blm.svg"
+},
+"SHN": {
+"name": "Saint Helena",
+"nativeName": "Saint Helena",
+"population": 4255,
+"region": "Africa",
+"flag": "https://restcountries.eu/data/shn.svg"
+},
+"KNA": {
+"name": "Saint Kitts and Nevis",
+"nativeName": "Saint Kitts and Nevis",
+"population": 56000,
+"region": "Americas",
+"flag": "https://restcountries.eu/data/kna.svg"
+},
+"LCA": {
+"name": "Saint Lucia",
+"nativeName": "Saint Lucia",
+"population": 185000,
+"region": "Americas",
+"flag": "https://restcountries.eu/data/lca.svg"
+},
+"MAF": {
+"name": "Saint Martin",
+"nativeName": "Saint-Martin",
+"population": 36979,
+"region": "Americas",
+"flag": "https://restcountries.eu/data/maf.svg"
+},
+"SPM": {
+"name": "Saint Pierre and Miquelon",
+"nativeName": "Saint-Pierre-et-Miquelon",
+"population": 6069,
+"region": "Americas",
+"flag": "https://restcountries.eu/data/spm.svg"
+},
+"VCT": {
+"name": "Saint Vincent and the Grenadines",
+"nativeName": "Saint Vincent and the Grenadines",
+"population": 109991,
+"region": "Americas",
+"flag": "https://restcountries.eu/data/vct.svg"
+},
+"WSM": {
+"name": "Samoa",
+"nativeName": "Samoa",
+"population": 187820,
+"region": "Oceania",
+"flag": "https://restcountries.eu/data/wsm.svg"
+},
+"SMR": {
+"name": "San Marino",
+"nativeName": "San Marino",
+"population": 32831,
+"region": "Europe",
+"flag": "https://restcountries.eu/data/smr.svg"
+},
+"STP": {
+"name": "São Tomé and Príncipe",
+"nativeName": "São Tomé e Príncipe",
+"population": 187356,
+"region": "Africa",
+"flag": "https://restcountries.eu/data/stp.svg"
+},
+"SAU": {
+"name": "Saudi Arabia",
+"nativeName": "العربية السعودية",
+"population": 31521418,
+"region": "Asia",
+"flag": "https://restcountries.eu/data/sau.svg"
+},
+"SEN": {
+"name": "Senegal",
+"nativeName": "Sénégal",
+"population": 13508715,
+"region": "Africa",
+"flag": "https://restcountries.eu/data/sen.svg"
+},
+"SRB": {
+"name": "Serbia",
+"nativeName": "Србија",
+"population": 7114393,
+"region": "Europe",
+"flag": "https://restcountries.eu/data/srb.svg"
+},
+"SYC": {
+"name": "Seychelles",
+"nativeName": "Seychelles",
+"population": 89949,
+"region": "Africa",
+"flag": "https://restcountries.eu/data/syc.svg"
+},
+"SLE": {
+"name": "Sierra Leone",
+"nativeName": "Sierra Leone",
+"population": 6453000,
+"region": "Africa",
+"flag": "https://restcountries.eu/data/sle.svg"
+},
+"SGP": {
+"name": "Singapore",
+"nativeName": "Singapore",
+"population": 5469700,
+"region": "Asia",
+"flag": "https://restcountries.eu/data/sgp.svg"
+},
+"SXM": {
+"name": "Sint Maarten",
+"nativeName": "Sint Maarten",
+"population": 37429,
+"region": "Americas",
+"flag": "https://restcountries.eu/data/sxm.svg"
+},
+"SVK": {
+"name": "Slovakia",
+"nativeName": "Slovensko",
+"population": 5421349,
+"region": "Europe",
+"flag": "https://restcountries.eu/data/svk.svg"
+},
+"SVN": {
+"name": "Slovenia",
+"nativeName": "Slovenija",
+"population": 2067683,
+"region": "Europe",
+"flag": "https://restcountries.eu/data/svn.svg"
+},
+"SLB": {
+"name": "Solomon Islands",
+"nativeName": "Solomon Islands",
+"population": 581344,
+"region": "Oceania",
+"flag": "https://restcountries.eu/data/slb.svg"
+},
+"SOM": {
+"name": "Somalia",
+"nativeName": "Soomaaliya",
+"population": 10787000,
+"region": "Africa",
+"flag": "https://restcountries.eu/data/som.svg"
+},
+"ZAF": {
+"name": "South Africa",
+"nativeName": "South Africa",
+"population": 54956900,
+"region": "Africa",
+"flag": "https://restcountries.eu/data/zaf.svg"
+},
+"SGS": {
+"name": "South Georgia",
+"nativeName": "South Georgia",
+"population": 30,
+"region": "Americas",
+"flag": "https://restcountries.eu/data/sgs.svg"
+},
+"KOR": {
+"name": "South Korea",
+"nativeName": "대한민국",
+"population": 51448183,
+"region": "Asia",
+"flag": "https://restcountries.eu/data/kor.svg"
+},
+"SSD": {
+"name": "South Sudan",
+"nativeName": "South Sudan",
+"population": 11892934,
+"region": "Africa",
+"flag": "https://restcountries.eu/data/ssd.svg"
+},
+"ESP": {
+"name": "Spain",
+"nativeName": "España",
+"population": 46439864,
+"region": "Europe",
+"flag": "https://restcountries.eu/data/esp.svg"
+},
+"LKA": {
+"name": "Sri Lanka",
+"nativeName": "śrī laṃkāva",
+"population": 20675000,
+"region": "Asia",
+"flag": "https://restcountries.eu/data/lka.svg"
+},
+"SDN": {
+"name": "Sudan",
+"nativeName": "السودان",
+"population": 38435252,
+"region": "Africa",
+"flag": "https://restcountries.eu/data/sdn.svg"
+},
+"SUR": {
+"name": "Suriname",
+"nativeName": "Suriname",
+"population": 534189,
+"region": "Americas",
+"flag": "https://restcountries.eu/data/sur.svg"
+},
+"SJM": {
+"name": "Svalbard and Jan Mayen",
+"nativeName": "Svalbard og Jan Mayen",
+"population": 2562,
+"region": "Europe",
+"flag": "https://restcountries.eu/data/sjm.svg"
+},
+"SWZ": {
+"name": "Swaziland",
+"nativeName": "Swaziland",
+"population": 1119375,
+"region": "Africa",
+"flag": "https://restcountries.eu/data/swz.svg"
+},
+"SWE": {
+"name": "Sweden",
+"nativeName": "Sverige",
+"population": 9793172,
+"region": "Europe",
+"flag": "https://restcountries.eu/data/swe.svg"
+},
+"CHE": {
+"name": "Switzerland",
+"nativeName": "Schweiz",
+"population": 8256000,
+"region": "Europe",
+"flag": "https://restcountries.eu/data/che.svg"
+},
+"SYR": {
+"name": "Syria",
+"nativeName": "سوريا",
+"population": 23339517,
+"region": "Asia",
+"flag": "https://restcountries.eu/data/syr.svg"
+},
+"TWN": {
+"name": "Taiwan",
+"nativeName": "臺灣",
+"population": 23461708,
+"region": "Asia",
+"flag": "https://restcountries.eu/data/twn.svg"
+},
+"TJK": {
+"name": "Tajikistan",
+"nativeName": "Тоҷикистон",
+"population": 8354000,
+"region": "Asia",
+"flag": "https://restcountries.eu/data/tjk.svg"
+},
+"TZA": {
+"name": "Tanzania",
+"nativeName": "Tanzania",
+"population": 53470000,
+"region": "Africa",
+"flag": "https://restcountries.eu/data/tza.svg"
+},
+"THA": {
+"name": "Thailand",
+"nativeName": "ประเทศไทย",
+"population": 65104000,
+"region": "Asia",
+"flag": "https://restcountries.eu/data/tha.svg"
+},
+"TLS": {
+"name": "East Timor",
+"nativeName": "Timor-Leste",
+"population": 1212107,
+"region": "Asia",
+"flag": "https://restcountries.eu/data/tls.svg"
+},
+"TGO": {
+"name": "Togo",
+"nativeName": "Togo",
+"population": 7305000,
+"region": "Africa",
+"flag": "https://restcountries.eu/data/tgo.svg"
+},
+"TKL": {
+"name": "Tokelau",
+"nativeName": "Tokelau",
+"population": 1411,
+"region": "Oceania",
+"flag": "https://restcountries.eu/data/tkl.svg"
+},
+"TON": {
+"name": "Tonga",
+"nativeName": "Tonga",
+"population": 103252,
+"region": "Oceania",
+"flag": "https://restcountries.eu/data/ton.svg"
+},
+"TTO": {
+"name": "Trinidad and Tobago",
+"nativeName": "Trinidad and Tobago",
+"population": 1340557,
+"region": "Americas",
+"flag": "https://restcountries.eu/data/tto.svg"
+},
+"TUN": {
+"name": "Tunisia",
+"nativeName": "تونس",
+"population": 10982754,
+"region": "Africa",
+"flag": "https://restcountries.eu/data/tun.svg"
+},
+"TUR": {
+"name": "Turkey",
+"nativeName": "Türkiye",
+"population": 77695904,
+"region": "Asia",
+"flag": "https://restcountries.eu/data/tur.svg"
+},
+"TKM": {
+"name": "Turkmenistan",
+"nativeName": "Türkmenistan",
+"population": 4751120,
+"region": "Asia",
+"flag": "https://restcountries.eu/data/tkm.svg"
+},
+"TCA": {
+"name": "Turks and Caicos Islands",
+"nativeName": "Turks and Caicos Islands",
+"population": 31458,
+"region": "Americas",
+"flag": "https://restcountries.eu/data/tca.svg"
+},
+"TUV": {
+"name": "Tuvalu",
+"nativeName": "Tuvalu",
+"population": 10640,
+"region": "Oceania",
+"flag": "https://restcountries.eu/data/tuv.svg"
+},
+"UGA": {
+"name": "Uganda",
+"nativeName": "Uganda",
+"population": 34856813,
+"region": "Africa",
+"flag": "https://restcountries.eu/data/uga.svg"
+},
+"UKR": {
+"name": "Ukraine",
+"nativeName": "Україна",
+"population": 42836922,
+"region": "Europe",
+"flag": "https://restcountries.eu/data/ukr.svg"
+},
+"ARE": {
+"name": "United Arab Emirates",
+"nativeName": "دولة الإمارات العربية المتحدة",
+"population": 9157000,
+"region": "Asia",
+"flag": "https://restcountries.eu/data/are.svg"
+},
+"GBR": {
+"name": "United Kingdom",
+"nativeName": "United Kingdom",
+"population": 64800000,
+"region": "Europe",
+"flag": "https://restcountries.eu/data/gbr.svg"
+},
+"USA": {
+"name": "United States",
+"nativeName": "United States",
+"population": 321645000,
+"region": "Americas",
+"flag": "https://restcountries.eu/data/usa.svg"
+},
+"URY": {
+"name": "Uruguay",
+"nativeName": "Uruguay",
+"population": 3415866,
+"region": "Americas",
+"flag": "https://restcountries.eu/data/ury.svg"
+},
+"UZB": {
+"name": "Uzbekistan",
+"nativeName": "O‘zbekiston",
+"population": 31022500,
+"region": "Asia",
+"flag": "https://restcountries.eu/data/uzb.svg"
+},
+"VUT": {
+"name": "Vanuatu",
+"nativeName": "Vanuatu",
+"population": 264652,
+"region": "Oceania",
+"flag": "https://restcountries.eu/data/vut.svg"
+},
+"VEN": {
+"name": "Venezuela",
+"nativeName": "Venezuela",
+"population": 30620404,
+"region": "Americas",
+"flag": "https://restcountries.eu/data/ven.svg"
+},
+"VNM": {
+"name": "Vietnam",
+"nativeName": "Việt Nam",
+"population": 91812000,
+"region": "Asia",
+"flag": "https://restcountries.eu/data/vnm.svg"
+},
+"WLF": {
+"name": "Wallis and Futuna",
+"nativeName": "Wallis et Futuna",
+"population": 13135,
+"region": "Oceania",
+"flag": "https://restcountries.eu/data/wlf.svg"
+},
+"ESH": {
+"name": "Western Sahara",
+"nativeName": "الصحراء الغربية",
+"population": 510713,
+"region": "Africa",
+"flag": "https://restcountries.eu/data/esh.svg"
+},
+"YEM": {
+"name": "Yemen",
+"nativeName": "اليَمَن",
+"population": 25956000,
+"region": "Asia",
+"flag": "https://restcountries.eu/data/yem.svg"
+},
+"ZMB": {
+"name": "Zambia",
+"nativeName": "Zambia",
+"population": 15473905,
+"region": "Africa",
+"flag": "https://restcountries.eu/data/zmb.svg"
+},
+"ZWE": {
+"name": "Zimbabwe",
+"nativeName": "Zimbabwe",
+"population": 13061239,
+"region": "Africa",
+"flag": "https://restcountries.eu/data/zwe.svg"
+}
+}
