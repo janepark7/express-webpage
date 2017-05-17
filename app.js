@@ -1,7 +1,7 @@
 const express = require("express");
 const app = express();
-const countries = require("./json/countries.json");
-console.log(countries);
+// const countries = require("./json/countries.json");
+// console.log(countries);
 
 app.set("view engine", "ejs");
 app.use(express.static("assets"));
@@ -23,26 +23,19 @@ app.get("/link", function(req, res) {
 */
 //	Jane Park Webpage Template
 
-
-app.get("/imagegallery", function(req, res) {
-	res.render("imagegallery.ejs");
-});
-
 //change the app.get and create a function
 
-app.get("/countries", function(req, res) {
-	var country = countries.GBR;
-	console.log(country);
-	res.render("countries.ejs", country);
-});
+// app.get("/countries", function(req, res) {
+// 	var country = countries.GBR;
+// 	console.log(country);
+// 	res.render("countries.ejs", country);
+// });
 
 app.get("/", function(req, res) {
 	res.render("template", {
 		page: "janepark",
-		imagegallery: "http://localhost:3000/imagegallery",
-		github: "http://www.github.com/janepark7",
-		linkedin:"https://www.linkedin.com/in/jane-park-7aa208132/",
-		countries: "http://localhost:3000/countries",
+		imagegallery: "imagegallery",
+		// countries: "countries",
 	});
 });
 
