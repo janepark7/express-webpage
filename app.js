@@ -37,11 +37,11 @@ app.get("/imagegallery", function(req, res) {
 
 //	incorporating countries onto template
 
-app.get("/countries:code", function(req, res) {
+app.get("/countries/:code", function(req, res) {
 	var country = countries[req.params.code];
-	console.log(countries);
 	res.render("template", {
 		page: "page/countries.ejs",
+		data: country,
 	});
 	if (!country) {
 		res.status(404);
