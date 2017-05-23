@@ -6,17 +6,17 @@ const countries = require("../json/countries.json");
 // ---> /countries/:code
 router.get("/:code", function(req, res) {
 	var country = countries[req.params.code];
+
+	if (!country) {
+		res.status(400);
+		return res.send("This is not a country!");
+	}
 	res.render("template", {
 		page: "page/countries.ejs",
 		data: country,
 	});
-	if (!country) {
-		res.status(404);
-		return res.send("This is not a country");
-	}
 
-//	Otherwise, render the admin....
-	res.render("admin");
+	res.render("/page/countries.ejs");
 });
 
 module.exports = router;
