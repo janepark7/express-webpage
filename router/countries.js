@@ -5,7 +5,7 @@ const countries = require("../json/countries.json");
 
 // ---> /countries/:code
 router.get("/:code", function(req, res) {
-	var country = countries[req.params.code];
+	var country = countries[req.params.code.toUpperCase()];
 
 	if (!country) {
 		res.status(400);
@@ -16,7 +16,17 @@ router.get("/:code", function(req, res) {
 		data: country,
 	});
 
-	res.render("/page/countries.ejs");
+
+});
+
+//   ----> /countries
+router.get('/', function (req,res) {
+	var home = countries.USA;
+
+	res.render("template", {
+		page: "page/countries.ejs",
+		data: home,
+	});
 });
 
 module.exports = router;
